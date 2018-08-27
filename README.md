@@ -2,7 +2,7 @@
 
 With this code you can replace the proof of work in iota.lib.js with an API call to https://powsrv.io/
 
-#Usage
+## Usage
 ```
 const IOTA = require("iota.lib.js")
 const poWaaS = require("./powaas");
